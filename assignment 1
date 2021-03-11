@@ -1,0 +1,97 @@
+1. What are the differences between operators and values in the following?
+*
+'hello'
+-87.8
+-
+/
++
+6
+
+
+
+Solution: Operators are : * , / , + , -
+          Value are : 'hello' , -87.8 , 6
+          
+          
+          
+
+2. What is the difference between string and variable?
+spam
+'spam'
+
+
+
+Solution: string is : 'spam'
+          variable is : spam
+
+
+
+3. Describe three different data forms.
+
+
+Solution: 
+
+
+4. What makes up an expression? What are the functions of all expressions?
+
+
+Solution: An expression is an instruction which combines variables or values and operators to give a single value as output. Functions of all expressions is to evaluate down to a single value
+
+
+
+5. In this chapter, assignment statements such as spam = 10 were added. What's the difference between a declaration and an expression?
+
+
+Solution:  An expression is an instruction which combines variables or values and operators to evaluate a single value as output while in opposite to Expression, Declaration doesnot evaluate to single value instead it represents an action or command.
+
+
+
+
+6. After running the following code, what does the variable bacon contain?
+bacon = 22
+bacon + 1
+
+
+Solution: 22
+
+
+
+
+7. What should the values of the following two terms be?
+
+'spam' + 'spamspam'
+'spam' * 3
+
+
+Solution: Both will have same value that is 'spamspamspam'
+
+
+
+8. Why is it that eggs is a true variable name but 100 is not?
+
+
+Solution: A variable name should start with underscore or alphanumeric characters since 100 is a number it can't be a variable name and eggs is alphanumeric as all alphabets also falls under alphanumeric but all numbers are not. 
+
+
+9. Which of the following three functions may be used to convert a value to an integer, a floating-point number, or a string?
+
+
+
+Solution: int() , float() , str()
+
+
+
+10. What is the error caused by this expression? What would you do about it?
+
+'I have eaten ' + 99 + ' burritos.'
+
+
+
+
+Solution:  TypeError: can only concatenate str (not "int") to str
+
+
+
+
+
+
